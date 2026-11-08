@@ -1,8 +1,8 @@
-# 안녕하세요, 안호영입니다 👋
+# 안녕하세요!
 
-웹 서비스와 개발 도구를 만들며 새로운 아이디어를 실험합니다.
+평소 하드웨어와 개발에 관심이 많은 고등학생입니다.
 
-사용하기 편한 서비스를 고민하고, 직접 만든 프로젝트를 통해 배우고 있습니다.
+프로그래밍은 잘 모르지만, AI를 통한 구체화와 자동화 업무를 통한 프로젝트 개발하는걸 좋아해요.
 
 ## 만들고 있는 것들
 
@@ -19,3 +19,9 @@
 ## 찾아오기
 
 [GitHub](https://github.com/Duioolllll) · [Instagram](https://www.instagram.com/toruex_/)
+
+## Conctact
+
+Gmail : skqew13@gmail.com 
+
+Discord : Whatisiz
