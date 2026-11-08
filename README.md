@@ -1,22 +1,33 @@
-# 안녕하세요!
+# Hello!
 
-평소 하드웨어와 개발에 관심이 많은 고등학생입니다.
+I'm a high school student with a strong interest in hardware and development.
 
-프로그래밍은 잘 모르지만, AI를 통한 구체화와 자동화 업무를 통한 프로젝트 개발하는걸 좋아해요.
+I don't know much about programming, but I enjoy developing projects by turning ideas into concrete solutions with AI and automating workflows.
 
-## 만들고 있는 것들
+## What I'm Building
 
-- **[PyNext](https://github.com/Duioolllll/PyNext)** — Python과 Rust로 만드는 실험적인 풀스택 웹 프레임워크입니다.
-- **[GwgCommunity](https://github.com/Duioolllll/GwgCommunity-)** — 학생들을 위한 비공식 커뮤니티 프로젝트입니다. Django와 PostgreSQL 기반으로 개발하고 있습니다.
-- **[AutoPresence](https://github.com/Duioolllll/Windows-Discord-Rich-Presence-Manager)** — Windows에서 Discord 활동 상태를 관리하기 위한 Electron·TypeScript 프로젝트입니다. 현재 개발 중인 프리뷰입니다.
+- **[PyNext](https://github.com/Duioolllll/PyNext)** — An experimental full-stack web framework built with Python and Rust.
+- **[GwgCommunity](https://github.com/Duioolllll/GwgCommunity-)** — An unofficial community project for students. Developed using Django and PostgreSQL.
+- **[AutoPresence](https://github.com/Duioolllll/Windows-Discord-Rich-Presence-Manager)** — An Electron and TypeScript project for managing Discord activity status on Windows. Currently a preview under development.
 
-
-## 찾아오기
+## Find Me
 
 [GitHub](https://github.com/Duioolllll) · [Instagram](https://www.instagram.com/toruex_/)
 
-## Conctact
+## Contact
 
-Gmail : skqew13@gmail.com 
+Gmail: skqew13@gmail.com
 
-Discord : Whatisiz
+Discord: Whatisiz
+
+### 🛠️ Development Environment
+- OS: Windows 11 · Ubuntu (WSL)
+- HW: Desktop, Pi5 (Remote via SSH)
+- IDE: IntelliJ IDEA · VS Code
+- CLI: Codex · OpenCode
+
+### 🤖 AI Tools I Use
+- OpenAI Codex (Leader)
+- GitHub Copilot (Sub)
+- Muse (Leader, Sub)
+- Anthropic Claude (For Review)
