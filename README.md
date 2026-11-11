@@ -18,7 +18,7 @@ I don't know much about programming, but I enjoy developing projects by turning 
 
 Gmail: skqew13@gmail.com
 
-Discord: Whatisiz
+Discord: whatisiz_
 
 ### 🛠️ Development Environment
 - OS: Windows 11 · Ubuntu (WSL)
